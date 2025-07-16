@@ -63,7 +63,7 @@ main {
       }
       .description{
         margin: 20px 0px;
-        font-size: clamp(.85rem, 2vw, 1.2rem);
+        font-size: clamp(.85rem, 2vw, 1rem);
         color: var(--Gray-500);
       }
     }
@@ -75,8 +75,8 @@ main {
             width: 30px;
         }
         .author{
-            font-weight: 700;
-            font-size: clamp(.85rem, 2vw, 1.2rem);
+            font-weight: 800;
+            font-size: clamp(.85rem, 2vw, 1rem);
         }
     }
   }
